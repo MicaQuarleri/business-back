@@ -3,9 +3,9 @@
     {
       "id": 1,
       "dni": "39146981",
-      "name": "celeste",
-      "surname": "juju",
-      "email": "sofia@gmail.com",
+      "name": "John",
+      "surname": "Smith",
+      "email": "ssmith@gmail.com",
       "cellphone": 34543543,
       "debt": 3700,
       "payment": 100
@@ -13,9 +13,9 @@
     {
       "id": 2,
       "dni": "455329829",
-      "name": "juan",
-      "surname": "suarez",
-      "email": "juan@gmail.com",
+      "name": "Sally",
+      "surname": "Thompson",
+      "email": "sthomposon@gmail.com",
       "cellphone": "234234324",
       "debt": 100,
       "payment": 10
@@ -23,8 +23,8 @@
     {
       "id": 3,
       "dni": "242342323",
-      "name": "juana",
-      "surname": "tunez",
+      "name": "Olivia",
+      "surname": "Byrne",
       "email": "",
       "cellphone": "23432423",
       "debt": 200,
@@ -33,50 +33,10 @@
     {
       "id": 4,
       "dni": "234994785",
-      "name": "sofia",
-      "surname": "gyemez",
+      "name": "Samantha",
+      "surname": "Roberts",
       "email": "",
       "cellphone": "2343432234",
-      "debt": 200,
-      "payment": 0
-    },
-    {
-      "id": 5,
-      "dni": "456789334",
-      "name": "pablo",
-      "surname": "perez",
-      "email": "pperez@gmail.com.ar",
-      "cellphone": "234324234",
-      "debt": 400,
-      "payment": 150
-    },
-    {
-      "id": 6,
-      "dni": "3432423432",
-      "name": "lucia",
-      "surname": "suter",
-      "email": "",
-      "cellphone": "243242342",
-      "debt": 0,
-      "payment": 0
-    },
-    {
-      "id": 7,
-      "dni": "23432423",
-      "name": "juan",
-      "surname": "pedro",
-      "email": "",
-      "cellphone": "24323423",
-      "debt": 0,
-      "payment": 0
-    },
-    {
-      "id": 8,
-      "dni": "897689345",
-      "name": "julieta",
-      "surname": "lopez",
-      "email": "",
-      "cellphone": "23434234",
       "debt": 200,
       "payment": 0
     }
@@ -84,59 +44,43 @@
   "products": [
     {
       "id": "1",
-      "sku": "AKF6",
-      "description": "sdfdsf",
+      "sku": "AKF667",
+      "description": "Suit Black",
       "price": 200,
       "descount": 10,
       "stock": 10
     },
     {
-      "sku": "sdds6",
-      "description": "sdfds",
+      "sku": "AKF668",
+      "description": "Pullover Stones",
       "price": 34,
       "stock": 2,
       "descount": 0,
       "id": "HBgtfZt"
     },
     {
-      "sku": "556",
-      "description": "sdfds",
+      "sku": "AKF669",
+      "description": "Trousers Man",
       "price": 34,
       "stock": 2,
       "descount": 10,
       "id": "POjO-Eo"
     },
     {
-      "sku": "34ger",
-      "description": "sdfds",
+      "sku": "AKF6610",
+      "description": "T-shirt Spring",
       "price": "30",
       "descount": "20",
       "stock": 5,
       "id": "QhZAAV9"
     },
     {
-      "sku": "dfdfsdfe",
-      "description": "pantalón",
+      "sku": "AKF666",
+      "description": "Jacket Rock",
       "price": "45",
       "descount": "10",
       "stock": "3",
       "id": "-BX7XEY"
-    },
-    {
-      "sku": "345frfre",
-      "description": "remera",
-      "price": "2445",
-      "descount": 0,
-      "stock": "3",
-      "id": "fAj0bIP"
-    },
-    {
-      "sku": "3r3r443",
-      "description": "pollera",
-      "price": "3455",
-      "descount": 0,
-      "stock": "23",
-      "id": "F9lVnDY"
     }
   ]
 }
